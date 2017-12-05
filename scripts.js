@@ -1,0 +1,1 @@
+window.onload = function(){ var button = document.getElementById("button-yellow"); button.addEventListener("click", function(event){ prompt('Please enter your email below to join our Mailing List!'); button.innerHTML = "Thanks for your email!" }); }
